@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733067369101",
+    "project_id": "indocars-a80a0",
+    "storage_bucket": "indocars-a80a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733067369101:android:8fdba22ae3faa74252e0c4",
+        "android_client_info": {
+          "package_name": "com.indocars.indocars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPq8f-JP8uLKmP2f6u3Q9Qw5FmOdGjBF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
